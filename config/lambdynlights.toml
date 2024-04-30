@@ -1,0 +1,177 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				axolotl = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				llama = true
+				bat = true
+				frog = true
+				husk = true
+				hoglin = true
+				rabbit = true
+				firework_rocket = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				shulker = true
+				salmon = true
+				wither_skeleton = true
+				vex = true
+				piglin_brute = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				minecart = true
+				ender_dragon = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				donkey = true
+				tropical_fish = true
+				chest_minecart = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				zombified_piglin = true
+				blaze = true
+				piglin = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				illusioner = true
+				potion = true
+				wither_skull = true
+				wolf = true
+				skeleton_horse = true
+				tnt_minecart = true
+				zombie_villager = true
+				elder_guardian = true
+				small_fireball = true
+				strider = true
+				polar_bear = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+
+			[light_sources.settings.entities.bewitchment]
+				werewolf = true
+				raven = true
+				owl = true
+				herne = true
+				horned_spear = true
+				toad = true
+				snake = true
+				lilith = true
+				juniper_broom = true
+				leonard = true
+				ghost = true
+				vampire = true
+				baphomet = true
+				hellhound = true
+				demon = true
+
+			[light_sources.settings.entities.mythicmounts]
+				netherbat = true
+				ridinglizard = true
+				firebird = true
+				courierbird = true
+				moth = true
+				nudibranch = true
+				direwolf = true
+				dragon = true
+				griffon = true
+				geckotoalizard = true
+				acencia = true
+
+			[light_sources.settings.entities.dimdoors]
+				monolith = true
+
+			[light_sources.settings.entities.origins]
+				enderian_pearl = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.mca]
+				male_zombie_villager = true
+				female_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.aquamirae]
+				anglerfish = true
+				tortured_soul = true
+				maw = true
+				spinefish = true
+
+			[light_sources.settings.entities.dungeonnowloading]
+				spawner_carrier = true
+				chaos_spawner = true
+				great_experience_bottle = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				blue_fireball = true
+				lich = true
+				obsidilith = true
+				charged_ender_pearl = true
+				comet = true
+				gauntlet = true
+				void_blossom = true
+

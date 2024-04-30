@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "patata"
+	group: "64516D76804EE183"
+	id: "72CD2BE06ED0D8CA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "509558A755481B8D"
+		rewards: [{
+			id: "3768170D0D584087"
+			type: "xp"
+			xp: 100
+		}]
+		tasks: [{
+			id: "1885B48D6EB7F80E"
+			item: "minecraft:oak_log"
+			type: "item"
+		}]
+		x: -1.5d
+		y: -0.5d
+	}]
+	title: "patata"
+}
