@@ -1,6 +1,13 @@
 {
     "ModSettings": {
+        "sort_order": "CUSTOM",
         "first_run": false
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 0,
+        "number_of_notifications": 1,
+        "notification_step": 1,
+        "type_visual_replace_failed_notification": "HOTBAR"
     },
     "Hotkeys": {
         "sort_inventory": {

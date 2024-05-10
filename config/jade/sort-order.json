@@ -46,6 +46,8 @@
   "minecraft:progress": null,
   "oregrowth:ore_growth_hint": null,
   "oregrowth:ore_growth_icon": null,
+  "polymer:blockstate": null,
+  "polymer:entities": null,
   "jade:object_name": null,
   "jade:registry_name": null,
   "jade:mod_name": null,

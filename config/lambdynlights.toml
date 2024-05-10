@@ -23,8 +23,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
+				panda = true
 				axolotl = true
 				bee = true
+				egg = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -35,8 +37,10 @@ mode = "fancy"
 				frog = true
 				husk = true
 				hoglin = true
+				camel = true
 				rabbit = true
 				firework_rocket = true
+				silverfish = true
 				armor_stand = true
 				drowned = true
 				experience_orb = true
@@ -48,6 +52,7 @@ mode = "fancy"
 				salmon = true
 				wither_skeleton = true
 				vex = true
+				wandering_trader = true
 				piglin_brute = true
 				goat = true
 				ocelot = true
@@ -57,6 +62,9 @@ mode = "fancy"
 				phantom = true
 				minecart = true
 				ender_dragon = true
+				evoker = true
+				mooshroom = true
+				llama_spit = true
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
@@ -67,6 +75,7 @@ mode = "fancy"
 				enderman = true
 				dragon_fireball = true
 				chicken = true
+				trader_llama = true
 				donkey = true
 				tropical_fish = true
 				chest_minecart = true
@@ -88,13 +97,18 @@ mode = "fancy"
 				pufferfish = true
 				illusioner = true
 				potion = true
+				trident = true
 				wither_skull = true
+				eye_of_ender = true
 				wolf = true
+				villager = true
 				skeleton_horse = true
+				fishing_bobber = true
 				tnt_minecart = true
 				zombie_villager = true
 				elder_guardian = true
 				small_fireball = true
+				boat = true
 				strider = true
 				polar_bear = true
 				painting = true
@@ -120,6 +134,86 @@ mode = "fancy"
 				hellhound = true
 				demon = true
 
+			[light_sources.settings.entities.dimdoors]
+				monolith = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				savanna_enderman = true
+				ice_spikes_enderman = true
+				desert_enderman = true
+				flower_fields_enderman = true
+				windswept_hills_enderman = true
+				ender_bullet = true
+				coral_enderman = true
+				spirit = true
+				end_enderman = true
+				corrupted_pearl = true
+				nether_wastes_enderman = true
+				mushroom_fields_enderman = true
+				crimson_forest_enderman = true
+				cave_enderman = true
+				snowy_enderman = true
+				dark_oak_enderman = true
+				soulsand_valley_enderman = true
+				crimson_pearl = true
+				scarab = true
+				end_islands_enderman = true
+				swamp_enderman = true
+				warped_forest_enderman = true
+				badlands_enderman = true
+
+			[light_sources.settings.entities.mca]
+				male_zombie_villager = true
+				female_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				blue_fireball = true
+				lich = true
+				obsidilith = true
+				charged_ender_pearl = true
+				comet = true
+				gauntlet = true
+				void_blossom = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				snail = true
+				alligator = true
+				rhino = true
+				bluejay = true
+				snake = true
+				catfish = true
+				boar = true
+				caterpillar = true
+				robin = true
+				dragonfly = true
+				duck_egg = true
+				tortoise = true
+				duck = true
+				butterfly = true
+				bear = true
+				sparrow = true
+				lizard = true
+				rattlesnake = true
+				zebra = true
+				canary = true
+				firefly = true
+				hippo = true
+				coral_snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				bass = true
+				giraffe = true
+				lizard_tail = true
+				elephant = true
+				finch = true
+
 			[light_sources.settings.entities.mythicmounts]
 				netherbat = true
 				ridinglizard = true
@@ -132,9 +226,13 @@ mode = "fancy"
 				griffon = true
 				geckotoalizard = true
 				acencia = true
+				colelytra = true
 
-			[light_sources.settings.entities.dimdoors]
-				monolith = true
+			[light_sources.settings.entities.minecells]
+				grenadier = true
+				undead_archer = true
+				shieldbearer = true
+				leaping_zombie = true
 
 			[light_sources.settings.entities.origins]
 				enderian_pearl = true
@@ -143,35 +241,38 @@ mode = "fancy"
 				stationary_contraption = true
 				super_glue = true
 
-			[light_sources.settings.entities.mca]
-				male_zombie_villager = true
-				female_zombie_villager = true
-				female_villager = true
-				male_villager = true
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				silk_moth = true
 
-			[light_sources.settings.entities.lootr]
-				lootr_minecart = true
+			[light_sources.settings.entities.terraform]
+				boat = true
+
+			[light_sources.settings.entities.scriptor]
+				colorful_sheep = true
 
 			[light_sources.settings.entities.aquamirae]
 				anglerfish = true
 				tortured_soul = true
 				maw = true
+				golden_moth = true
+				maze_mother = true
 				spinefish = true
 
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
 				great_experience_bottle = true
+				hollow = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
 
-			[light_sources.settings.entities.bosses_of_mass_destruction]
-				blue_fireball = true
-				lich = true
-				obsidilith = true
-				charged_ender_pearl = true
-				comet = true
-				gauntlet = true
-				void_blossom = true
+			[light_sources.settings.entities.ad_astra]
+				tier_1_rocket = true
+				corrupted_lunarian = true
+				lunarian = true
+				star_crawler = true
+				tier_4_rocket = true
+				lander = true
 
